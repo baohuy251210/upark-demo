@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.f5d562ef.css",
-    "main.js": "./static/js/main.92353eea.js",
-    "static/media/parking-p-sign.png": "./static/media/parking-p-sign.c5c0640fdf4d02bee957.png",
-    "static/media/upark_dark.svg": "./static/media/upark_dark.45bff8f7f6a5aed2b8dbd12abf9428b1.svg",
-    "static/media/upark.svg": "./static/media/upark.c71562cbde6ba5e43cb85f80efeda7ea.svg",
-    "static/media/Radio.svg": "./static/media/Radio.ffda2a16bb3f5abdabe23157f4d265e3.svg",
-    "index.html": "./index.html",
-    "main.f5d562ef.css.map": "./static/css/main.f5d562ef.css.map",
-    "main.92353eea.js.map": "./static/js/main.92353eea.js.map"
+    "main.css": "/upark-demo/static/css/main.f5d562ef.css",
+    "main.js": "/upark-demo/static/js/main.c9c37326.js",
+    "static/media/parking-p-sign.png": "/upark-demo/static/media/parking-p-sign.c5c0640fdf4d02bee957.png",
+    "static/media/upark_dark.svg": "/upark-demo/static/media/upark_dark.45bff8f7f6a5aed2b8dbd12abf9428b1.svg",
+    "static/media/upark.svg": "/upark-demo/static/media/upark.c71562cbde6ba5e43cb85f80efeda7ea.svg",
+    "static/media/Radio.svg": "/upark-demo/static/media/Radio.ffda2a16bb3f5abdabe23157f4d265e3.svg",
+    "index.html": "/upark-demo/index.html",
+    "main.f5d562ef.css.map": "/upark-demo/static/css/main.f5d562ef.css.map",
+    "main.c9c37326.js.map": "/upark-demo/static/js/main.c9c37326.js.map"
   },
   "entrypoints": [
     "static/css/main.f5d562ef.css",
-    "static/js/main.92353eea.js"
+    "static/js/main.c9c37326.js"
   ]
 }
