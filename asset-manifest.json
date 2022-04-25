@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/upark-demo/static/css/main.f5d562ef.css",
-    "main.js": "/upark-demo/static/js/main.b992884a.js",
+    "main.js": "/upark-demo/static/js/main.c040c963.js",
     "static/media/parking-p-sign.png": "/upark-demo/static/media/parking-p-sign.c5c0640fdf4d02bee957.png",
     "static/media/upark_dark.svg": "/upark-demo/static/media/upark_dark.45bff8f7f6a5aed2b8dbd12abf9428b1.svg",
     "static/media/upark.svg": "/upark-demo/static/media/upark.c71562cbde6ba5e43cb85f80efeda7ea.svg",
     "static/media/Radio.svg": "/upark-demo/static/media/Radio.ffda2a16bb3f5abdabe23157f4d265e3.svg",
     "index.html": "/upark-demo/index.html",
     "main.f5d562ef.css.map": "/upark-demo/static/css/main.f5d562ef.css.map",
-    "main.b992884a.js.map": "/upark-demo/static/js/main.b992884a.js.map"
+    "main.c040c963.js.map": "/upark-demo/static/js/main.c040c963.js.map"
   },
   "entrypoints": [
     "static/css/main.f5d562ef.css",
-    "static/js/main.b992884a.js"
+    "static/js/main.c040c963.js"
   ]
 }
